@@ -23,6 +23,8 @@ class GFG {
         }
         else {
             System.out.println("False");
+            // output
+            // true False hnamde exception
         }
     }
 }
