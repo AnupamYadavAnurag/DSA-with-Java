@@ -23,6 +23,7 @@ class GFG {
         }
         else {
             System.out.println("False");
+            // Output
         }
     }
 }
