@@ -2,8 +2,6 @@ class GFG {
 
     static boolean isPalindrome(int n) {
         int reverse = 0;
-
-        // Copy of the original number so that the original
         // number remains unchanged while finding the reverse
         int temp = Math.abs(n);
         while (temp != 0) {
